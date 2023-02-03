@@ -1,3 +1,0 @@
-total 1
--rw-r--r-- 1 Isabelle.leblond 197121 239 Feb  2 15:12 data.txt
--rw-r--r-- 1 Isabelle.leblond 197121   0 Feb  2 16:19 data2.txt

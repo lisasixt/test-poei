@@ -1,5 +1,2 @@
-total 12
-drwxr-xr-x 1 Isabelle.leblond 197121 0 Feb  2 15:11 ./
-drwxr-xr-x 1 Isabelle.leblond 197121 0 Feb  2 14:59 ../
-drwxr-xr-x 1 Isabelle.leblond 197121 0 Feb  2 15:01 .git/
--rw-r--r-- 1 Isabelle.leblond 197121 0 Feb  2 15:11 data.txt
+AAAAAA	
+BBBBB

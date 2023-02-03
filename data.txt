@@ -1,3 +1,7 @@
 AAAAAA	
 BBBBB
+<<<<<<< HEAD
 CCC
+=======
+DDDDDD
+>>>>>>> refs/remotes/origin/test
